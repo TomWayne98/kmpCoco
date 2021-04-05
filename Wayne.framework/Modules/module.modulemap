@@ -1,0 +1,6 @@
+framework module Wayne {
+    umbrella header "Wayne.h"
+
+    export *
+    module * { export * }
+}
